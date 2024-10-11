@@ -1,7 +1,7 @@
 Prediction of Wine type using Deep Learning
 
 We use deep learning for the large data sets but to understand the concept of deep learning, we use the small data set of wine quality.
-we can find the wine quality data set from the UCI Machine Learning Repository which is available for free. The aim of this article is to get started with the libraries of deep learning such as Keras, etcand to be familiar with the basis of neural network. 
+we can find the wine quality data set from the UCI Machine Learning Repository which is available for free.  
 
 About the Data Set : 
 The data set consist of 12 variables that are included in the data. Few of them are as follows – 
